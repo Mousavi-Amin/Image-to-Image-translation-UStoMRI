@@ -16,3 +16,6 @@ Mohammad R. Salmanpour, Amin Mousavi
 STATEMENT: This files are part of above papers. Package by Mohammad R.Salmanpour, Amin Mousavi. --> Copyright (C) 2024 Amin Mousavi, Islamic Azad University, Iran and Mohammad R. Salmanpour, University of British coulumbia. This package is distributed in the hope that it will be useful. It is flexible license for research products. For commercial use, please get permison from Amin Mousavi via eamil address amin.mousavi.academic@gmail.com.
 
 Any feedback welcome!!! amin.mousavi.academic@gmail.com.
+
+Run Models:
+There are 8 Models to train and test. the models are located in the directory "Image-to-Image Translation Models". If you want to train or test any model, you can enter the model directory and run the file 'Experiment.py'. Before run, open the file 'Experiment.py', then initialize the variable 'mode = train' for training and 'mode = generate_outputs_3D' for test.
